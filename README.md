@@ -140,6 +140,8 @@ Une **GPO** vit en deux endroits : un objet `GPC` dans l'annuaire, et un dossier
 
 Les fiches sont en PDF A4 portrait, conçues pour l'écran comme pour l'impression. Les commandes PowerShell qu'elles contiennent sont conçues pour être copiées et exécutées depuis un poste d'administration disposant du module **RSAT**. Toutes les illustrations utilisent exclusivement le domaine fictif `adcompagnon.lab` — aucun copier-coller ne révélera une infrastructure réelle.
 
+> **Note technique** — L'aperçu PDF intégré à GitHub peut ne pas se charger pour les fiches les plus lourdes (limite côté GitHub). Cliquez sur l'icône de téléchargement à droite du bandeau de poids du fichier (flèche vers le bas) pour obtenir le PDF — il s'ouvrira correctement dans n'importe quel lecteur.
+
 ---
 
 ## À propos
